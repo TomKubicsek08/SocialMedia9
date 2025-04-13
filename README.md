@@ -1,1 +1,1 @@
-# SocialMedia9
+The notification feature was implemented correctly using the Notification API. There may be issues with it not showing up whenever you type in but if you click it when its empty it does have a pop up. 
